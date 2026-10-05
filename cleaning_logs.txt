@@ -1,0 +1,14 @@
+rows_raw: 1260
+duplicates_removed: 57
+invalid_qty_removed: 5
+price_outliers_fixed: 11
+qty_outliers_removed: 6
+missing_price_imputed: 100
+missing_rating_imputed: 69
+missing_name_labelled: 40
+rows_clean: 1192
+
+Top category: Electronics (61%)
+Top region: West
+Best month: December 2025
+
